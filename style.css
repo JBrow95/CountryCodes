@@ -79,6 +79,7 @@ nav ul li a.active {
 .hover:hover {
 	color: #fff;
 	background: #151515;
+	transition: 0.3s;
 	filter: opacity(50%);
 
 }
